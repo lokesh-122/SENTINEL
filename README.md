@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/q7jFxCQc/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Project Sentinel Banner" width="100%" />
+  <img src="https://i.postimg.cc/sfPVG69W/bd7c21bc-fd05-4663-b0d3-0d9172f4ba27.png" alt="Project Sentinel Banner" width="100%" />
 </p>
 
 <h1 align="center">🛡️ Project Sentinel — Smart Wearable for Women's Safety</h1>
